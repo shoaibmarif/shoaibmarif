@@ -41,6 +41,6 @@ Here you can explore some of the projects I've worked on. Each project represent
 <a href="https://fb.com/shoaibarif1997" target="blank" style="margin-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoaibarif1997" height="40" width="40" /></a>
 <a href="https://instagram.com/shoaibmarif" target="blank" style="margin-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shoaibmarif" height="40" width="40" /></a>
 <a href="https://medium.com/@shoaibmarif" target="blank" style="margin-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shoaibmarif" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/shoaibarift" target="blank" style="margin-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shoaibarift" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/shoaibarif" target="blank" style="margin-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shoaibarift" height="40" width="40" /></a>
 </p>
 
