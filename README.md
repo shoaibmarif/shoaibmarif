@@ -1,7 +1,7 @@
 
 ## Hi, There👋
 
-[![](https://visitcount.itsvg.in/api?id=shoaibmarif&icon=3&color=11)]
+![](https://visitcount.itsvg.in/api?id=shoaibmarif&icon=3&color=11)
 
   Welcome to my GitHub profile! I'm Shoaib, a passionate Software Engineer and Full-Stack Developer focusing on creating innovative and efficient web applications. 🚀As a dedicated software engineer, I thrive on tackling complex challenges and turning them into elegant, functional solutions. My journey in tech has equipped me with a broad skill set that spans both front-end and back-end development. I'm particularly skilled in building dynamic; responsive user interfaces with React.js, which allows me to craft engaging and user-friendly web experiences. On the server side, I develop robust, scalable applications using technologies like Node.js and Express.js, ensuring that all components work seamlessly together.
 
