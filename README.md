@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=26&pause=1000&color=77F7E5&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=60&lines=Hello%2C+I'm+Shoaib.;A+Full-Stack+Developer.;Specialized+in+React.js.;I+build+modern+web+experiences." alt="Typing SVG" /></a>
 
-<p align="center">
+
+<p align="end">
   <a href="https://linkedin.com/in/shoaibmarif"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/shoaibmarif"><img src="https://img.shields.io/github/followers/shoaibmarif?style=for-the-badge&logo=github&color=238636" alt="GitHub Followers"></a>
   <a href="https://stackoverflow.com/users/7770942"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
