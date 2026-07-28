@@ -32,7 +32,6 @@ const shoaib = {
 };
 ```
 
-<br/>
 
 <div width="100%">
   <h3>🚀 What I Do</h3>
@@ -44,7 +43,6 @@ const shoaib = {
   </ul>
 </div>
 
-<br/>
 
 <div width="100%">
   <h3>📌 Quick Facts</h3>
