@@ -51,13 +51,18 @@ const shoaib = {
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true">
-    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats" />
-  </a>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" height="200" alt="Streak Stats" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <a href="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true">
+        <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="100%" height="200" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="right" width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="100%" height="200" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 
 ## 💻 Tech Stack & Toolkit
