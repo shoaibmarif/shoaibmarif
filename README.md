@@ -77,32 +77,37 @@ const shoaib = {
 
   <br/><br/>
 
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmarif&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shoaibmarif&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages" />
+  </p>
 
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibmarif&theme=tokyonight&hide_border=false" width="100%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=false" width="100%" alt="Streak Stats" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 GitHub Contribution Heatmap & Snake
 
 <div align="center">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
-  </p>
+
+  <!-- Instant Live Contribution Heatmap -->
+  <img src="https://ghchart.rshah.org/36BCF7/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
+
+  <br/><br/>
+
+  <!-- Animated Snake Contribution Graph (Requires GitHub Action on repo) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
 </div>
 
 ---
@@ -232,7 +237,7 @@ const shoaib = {
 
   <br/><br/>
 
-  <img src="https://readme-jokes-three.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 
 </div>
 
