@@ -35,23 +35,19 @@ const shoaib = {
 
 <div width="100%">
   <h3>🚀 What I Do</h3>
-  <ul>
-    <li><b>Front-End Excellence:</b> Crafting responsive, dynamic, and intuitive web interfaces using React.js, Next.js, Material UI & Ant Design.</li>
-    <li><b>Back-End Architecture:</b> Building robust, scalable, and secure APIs with Node.js, Express & GraphQL.</li>
-    <li><b>Database & Cloud:</b> Designing efficient schemas and managing cloud infrastructures with MongoDB, MySQL, SQL, Firebase & AWS.</li>
-    <li><b>End-to-End Delivery:</b> Transforming complex requirements into production-ready software solutions.</li>
-  </ul>
+  <p><b>Front-End Excellence:</b> Crafting responsive, dynamic, and intuitive web interfaces using React.js, Next.js, Material UI & Ant Design.</p>
+  <p><b>Back-End Architecture:</b> Building robust, scalable, and secure APIs with Node.js, Express & GraphQL.</p>
+  <p><b>Database & Cloud:</b> Designing efficient schemas and managing cloud infrastructures with MongoDB, MySQL, SQL, Firebase & AWS.</p>
+  <p><b>End-to-End Delivery:</b> Transforming complex requirements into production-ready software solutions.</p>
 </div>
 
 
 <div width="100%">
   <h3>📌 Quick Facts</h3>
-  <ul>
-    <li>🔭 <b>Currently working on:</b> High-impact full-stack web applications.</li>
-    <li>💼 <b>Enterprise Experience:</b> Daraz, OMI Hospital, Tawkeel, Dow University.</li>
-    <li>🌱 <b>Exploring:</b> Cloud Native Architectures & Micro-Frontends.</li>
-    <li>💬 <b>Ask me about:</b> Full-Stack Development, React, Node.js, Performance Optimization.</li>
-  </ul>
+  <p>🔭 <b>Currently working on:</b> High-impact full-stack web applications.</p>
+  <p>💼 <b>Enterprise Experience:</b> Daraz, OMI Hospital, Tawkeel, Dow University.</p>
+  <p>🌱 <b>Exploring:</b> Cloud Native Architectures & Micro-Frontends.</p>
+  <p>💬 <b>Ask me about:</b> Full-Stack Development, React, Node.js, Performance Optimization.</p>
 </div>
 
 ---
