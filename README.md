@@ -59,12 +59,9 @@ const shoaib = {
 </p>
 
 
-## 💻 Tech Stack & Toolkit
+## 💻 Tech Stack
 
 <div align="center">
-
-  ### 🎨 Frontend & UI Libraries
-  <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>&nbsp;
     <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass%2FSCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"></a>&nbsp;
@@ -89,7 +86,6 @@ const shoaib = {
     <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>&nbsp;
     <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"></a>&nbsp;
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  </p>
 </div>
 
 ---
