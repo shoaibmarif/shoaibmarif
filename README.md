@@ -51,11 +51,11 @@ const shoaib = {
 
 ## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img align="right" src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
-</p>
-<br clear="both" />
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+</div>
 
 
 ## 💻 Tech Stack & Toolkit
