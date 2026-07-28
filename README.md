@@ -54,9 +54,9 @@ const shoaib = {
 
 <div align="center">
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="44%" height="195" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="44%" height="195" alt="Streak Stats" />
   </p>
 </div>
 
