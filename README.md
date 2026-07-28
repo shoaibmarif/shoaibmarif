@@ -92,49 +92,34 @@ const shoaib = {
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://app.worter.io/">Worter</a></h3>
-      <p align="center">Cloud-based translation and localization management platform supporting <b>72+ languages</b> effortlessly.</p>
-      <p align="center">
-        <code>React.js</code> <code>Node.js</code> <code>SaaS</code> <code>Localization</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 <a href="https://www.omihospital.com">OMI Hospital</a></h3>
-      <p align="center">Official medical portal for a premier medical and surgical institution established since 1984.</p>
-      <p align="center">
-        <code>Full-Stack</code> <code>Healthcare</code> <code>UI/UX</code> <code>React</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕋 <a href="https://tawkeel.com">Tawkeel</a></h3>
-      <p align="center">Specialized Saudi Arabian digital platform empowering users to delegate religious rituals securely.</p>
-      <p align="center">
-        <code>Mobile & Web</code> <code>Fintech</code> <code>Express</code> <code>MongoDB</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ <a href="https://www.daraz.pk">Daraz</a></h3>
-      <p align="center">South Asia's leading e-commerce platform serving millions of active shoppers daily.</p>
-      <p align="center">
-        <code>E-Commerce</code> <code>High Traffic</code> <code>React</code> <code>Redux</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <h3 align="center">🎓 <a href="https://www.duhs.edu.pk">Dow University of Health Sciences</a></h3>
-      <p align="center">Comprehensive digital ecosystem for one of Pakistan's top public medical universities.</p>
-      <p align="center">
-        <code>Enterprise Portal</code> <code>Public Health</code> <code>Web Infrastructure</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<div width="100%">
+  <p>🇦🇪 <b><a href="https://oneuae.com/">One UAE</a></b> — Digital services & lifestyle ecosystem platform in the UAE.<br/>
+  <code>Full-Stack</code> <code>Digital Services</code> <code>Next.js</code> <code>API Integration</code></p>
+
+  <p>🚚 <b><a href="https://relvehq.com/">Relve HQ</a></b> — Modern logistics management & fleet optimization SaaS solution.<br/>
+  <code>SaaS</code> <code>Logistics</code> <code>React</code> <code>Node.js</code></p>
+
+  <p>🍔 <b><a href="https://mcdonalds.com.pk/">McDonald's Pakistan</a></b> — Official food ordering & delivery portal for McDonald's Pakistan.<br/>
+  <code>E-Commerce</code> <code>Web App</code> <code>React</code> <code>UI/UX</code></p>
+
+  <p>🎓 <b><a href="https://www.duhs.edu.pk/">Dow University of Health Sciences</a></b> — Digital ecosystem for Pakistan's top public medical university.<br/>
+  <code>Enterprise Portal</code> <code>Public Health</code> <code>Web Infrastructure</code></p>
+
+  <p>🛍️ <b><a href="https://www.daraz.pk/">Daraz</a></b> — South Asia's leading e-commerce platform serving millions daily.<br/>
+  <code>E-Commerce</code> <code>High Traffic</code> <code>React</code> <code>Redux</code></p>
+
+  <p>🏥 <b><a href="https://www.omihospital.com/">OMI Hospital</a></b> — Official medical portal for premier healthcare institution (est. 1984).<br/>
+  <code>Full-Stack</code> <code>Healthcare</code> <code>UI/UX</code> <code>React</code></p>
+
+  <p>🌐 <b><a href="https://app.worter.io/">Worter</a></b> — Cloud-based translation & localization management platform for 72+ languages.<br/>
+  <code>React.js</code> <code>Node.js</code> <code>SaaS</code> <code>Localization</code></p>
+
+  <p>🕋 <b><a href="https://tawkeel.com/en">Tawkeel</a></b> — Specialized digital platform empowering users to delegate religious rituals securely.<br/>
+  <code>Mobile & Web</code> <code>Fintech</code> <code>Express</code> <code>MongoDB</code></p>
+
+  <p>🛒 <b><a href="https://www.horecastore.ae/">Horeca Store</a></b> — Leading B2B e-commerce marketplace for hospitality equipment in the UAE.<br/>
+  <code>B2B Marketplace</code> <code>E-Commerce</code> <code>React</code> <code>Tailwind</code></p>
+</div>
 
 
 
