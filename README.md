@@ -1,16 +1,10 @@
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h2 style="border-bottom: none; margin: 0;">⚡ About Me</h2>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://linkedin.com/in/shoaibmarif"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://github.com/shoaibmarif"><img src="https://img.shields.io/github/followers/shoaibmarif?style=for-the-badge&logo=github&color=238636" alt="GitHub Followers"></a>
-      <a href="https://stackoverflow.com/users/7770942"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
-      <a href="#"><img src="https://komarev.com/ghpvc/?username=shoaibmarif&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-    </td>
-  </tr>
-</table>
+<h2>
+  ⚡ About Me
+  <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=shoaibmarif&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://stackoverflow.com/users/7770942"><img align="right" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="https://github.com/shoaibmarif"><img align="right" src="https://img.shields.io/github/followers/shoaibmarif?style=for-the-badge&logo=github&color=238636" alt="GitHub Followers" /></a>
+  <a href="https://linkedin.com/in/shoaibmarif"><img align="right" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+</h2>
 
 I’m an experienced Software Engineer building solutions that reshape how businesses engage with web and mobile platforms, creating interactive experiences that resonate with users and drive results.
 
