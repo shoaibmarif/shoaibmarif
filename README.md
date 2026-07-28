@@ -63,7 +63,7 @@ const shoaib = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaibmarif&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=shoaibmarif&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="Trophies" width="100%"/>
 </div>
 
 ---
