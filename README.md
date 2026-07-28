@@ -55,7 +55,6 @@ const shoaib = {
   <a href="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true">
     <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=prs_merged%2Cprs_commented%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   </a>
-  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
 </p>
 
