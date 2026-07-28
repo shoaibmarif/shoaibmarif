@@ -10,11 +10,6 @@
   <a href="#">
    <img src="https://komarev.com/ghpvc/?username=shoaibmarif&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shoaibmarif&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
