@@ -63,14 +63,6 @@ const shoaib = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=shoaibmarif&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="Trophies" width="100%"/>
-</div>
-
----
-
 ## 📈 GitHub Analytics & Stats
 
 <div align="center">
@@ -95,49 +87,12 @@ const shoaib = {
 
 ---
 
-## 🐍 GitHub Contribution Heatmap & Snake
+## 📊 GitHub Contribution Heatmap
 
 <div align="center">
 
   <!-- Instant Live Contribution Heatmap -->
   <img src="https://ghchart.rshah.org/36BCF7/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
-
-  <br/><br/>
-
-  <!-- Animated Snake Contribution Graph (Requires GitHub Action on repo) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoaibmarif/shoaibmarif/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-</div>
-
----
-
-## 🎮 README Arcade & Mini-Games
-
-<div align="center">
-
-  ### 🕹️ Play Tic-Tac-Toe!
-  Click on any empty cell in your mind or challenge a friend to a quick game!
-
-  | | | |
-  | :---: | :---: | :---: |
-  | ❌ | ⭕ | ❌ |
-  | ⭕ | ❌ | ⭕ |
-  | ❌ | ❌ | ⭕ |
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/shoaibmarif">
-      <img src="https://img.shields.io/badge/🎮_Arcade-Interactive_GitHub_Profile-purple?style=for-the-badge" alt="Arcade">
-    </a>
-    <a href="https://github.com/shoaibmarif">
-      <img src="https://img.shields.io/badge/🎲_Challenge-Connect_4-blueviolet?style=for-the-badge" alt="Connect4">
-    </a>
-  </p>
 
 </div>
 
@@ -270,15 +225,11 @@ const shoaib = {
 
 ---
 
-## 💭 Daily Dev Quote & Humor
+## 💭 Daily Dev Quote
 
 <div align="center">
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-  <br/><br/>
-
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 
 </div>
 
