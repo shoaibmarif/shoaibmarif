@@ -71,11 +71,11 @@ const shoaib = {
 
   <br/><br/>
 
-  <!-- <p align="center">
+  <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=default&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
     &nbsp;
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shoaibmarif&layout=compact&theme=default&hide_border=false" width="48%" alt="Top Languages" />
-  </p> -->
+  </p>
 
   <br/>
 
@@ -88,12 +88,7 @@ const shoaib = {
 
 ## 📊 GitHub Contribution Heatmap
 
-<div align="center">
 
-  <!-- Default GitHub Contribution Heatmap -->
-  <img src="https://ghchart.rshah.org/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
-
-</div>
 
 ---
 
