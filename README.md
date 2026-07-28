@@ -27,7 +27,7 @@ const shoaib = {
         database_cloud: ["MongoDB", "MySQL", "SQL", "Firebase", "AWS"],
         tools: ["Git", "GitHub", "Figma", "Linux", "Webpack"]
     },
-    currentFocus: "Architecting scalable enterprise applications & microservices",
+    currentFocus: "Architecting scalable enterprise applications & micro-frontend",
     funFact: "I turn coffee into performant, clean, and interactive user experiences ☕✨"
 };
 ```
