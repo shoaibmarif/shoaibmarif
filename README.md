@@ -32,6 +32,13 @@ const shoaib = {
 };
 ```
 
+I’m an experienced Software Engineer building solutions that reshape how businesses engage with web and mobile platforms, creating interactive experiences that resonate with users and drive results.
+
+With a Bachelor's degree in Computer Science and a strong foundation in front-end development, I specialize in delivering high-performing, user-friendly, and responsive applications.
+
+**Technical Skills:** HTML, CSS, JavaScript (ES6), React, Redux, Node.js, GraphQL, REST APIs, JQuery, Bootstrap, Material UI, Ant Design, Tailwind, SCSS
+
+
 
 <div width="100%">
   <h3>🚀 What I Do</h3>
