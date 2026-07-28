@@ -52,7 +52,9 @@ const shoaib = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+  </a>
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
