@@ -48,7 +48,7 @@ const shoaib = {
   <p>💬 <b>Ask me about:</b> Full-Stack Development, React, Node.js, Performance Optimization.</p>
 </div>
 
----
+--
 
 ## 📈 GitHub Stats
 
@@ -60,7 +60,7 @@ const shoaib = {
   </p>
 </div>
 
----
+--
 
 ## 💻 Tech Stack & Toolkit
 
