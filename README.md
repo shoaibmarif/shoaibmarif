@@ -67,20 +67,20 @@ const shoaib = {
 <div align="center">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmarif&theme=tokyo-night&hide_border=false" width="100%" alt="Shoaib's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmarif&theme=github&hide_border=false" width="100%" alt="Shoaib's GitHub Activity Graph" />
 
   <br/><br/>
 
   <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=shoaibmarif&show_icons=true&theme=default&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shoaibmarif&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shoaibmarif&layout=compact&theme=default&hide_border=false" width="48%" alt="Top Languages" />
   </p>
 
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=tokyonight&hide_border=false" width="100%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shoaibmarif&theme=default&hide_border=false" width="100%" alt="Streak Stats" />
 
 </div>
 
@@ -90,7 +90,7 @@ const shoaib = {
 
 <div align="center">
 
-  <!-- Default GitHub Green Contribution Heatmap -->
+  <!-- Default GitHub Contribution Heatmap -->
   <img src="https://ghchart.rshah.org/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
 
 </div>
