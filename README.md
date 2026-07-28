@@ -10,8 +10,8 @@
   <a href="#">
    <img src="https://komarev.com/ghpvc/?username=shoaibmarif&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
+  
 </p>
-
 ---
 
 </div>
@@ -90,8 +90,8 @@ const shoaib = {
 
 <div align="center">
 
-  <!-- Instant Live Contribution Heatmap -->
-  <img src="https://ghchart.rshah.org/36BCF7/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
+  <!-- Default GitHub Green Contribution Heatmap -->
+  <img src="https://ghchart.rshah.org/shoaibmarif" alt="Shoaib's GitHub Contribution Chart" width="100%" />
 
 </div>
 
