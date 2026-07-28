@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&lines=Hi+There!+%F0%9F%90%8B+I'm+Shoaib+Arif;Full-Stack+Software+Engineer+%F0%9F%9A%80;React.js+%26+Node.js+Specialist+%E2%9A%A1;Crafting+Scalable+Web+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=26&pause=1000&color=77F7E5&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=60&lines=Hello%2C+I'm+Shoaib.;A+Full-Stack+Developer.;Specialized+in+React.js.;I+build+modern+web+experiences." alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/shoaibmarif"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
