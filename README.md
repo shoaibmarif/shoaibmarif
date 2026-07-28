@@ -88,7 +88,7 @@ const shoaib = {
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
 </div>
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -136,7 +136,7 @@ const shoaib = {
   </tr>
 </table>
 
----
+
 
 ## 🤝 Connect With Me
 
